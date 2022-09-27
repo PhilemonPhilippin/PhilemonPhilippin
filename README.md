@@ -9,6 +9,7 @@ This project is made of two parts : the API part and the Web Assembly part :
 Bugtracker.API-repo & Bugtracker.WASM-repo
 
 I am glad that you found my GitHub page,
+
 And wish you a wonderful day 😃
 
 
