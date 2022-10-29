@@ -31,7 +31,7 @@
         </div>
       </div>
       <div>
-        <p>
+        <p> <br /> <br />
           My other projects are smaller and are mostly used to practice and
           learn new things.
         </p>
