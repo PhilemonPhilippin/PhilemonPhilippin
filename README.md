@@ -25,14 +25,14 @@
       <p>Click below to access my Bugtracker repositories :</p>
         
       <a href="https://github.com/Tarcacode/Bugtracker.WASM-repo"
-        ><button style="background-color: mediumslateblue; color: white">
+        >
           Bugtracker.WASM (Front)
-        </button></a
+        </a
       >
       <a href="https://github.com/Tarcacode/Bugtracker.API-repo"
-        ><button style="background-color: mediumslateblue; color: white">
+        >
           Bugtracker.API (Back)
-        </button></a
+        </a
       >
         </div>
         <div>
