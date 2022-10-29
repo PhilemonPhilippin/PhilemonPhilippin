@@ -21,8 +21,9 @@
         <span style="font-weight: bold">Bugtracker</span>. <br />This project is
         made of two parts : the Web Assembly part and the API part.
       </p>
-      <p>Click below to access my Bugtracker repositories :</p>
         <div>
+      <p>Click below to access my Bugtracker repositories :</p>
+        
       <a href="https://github.com/Tarcacode/Bugtracker.WASM-repo"
         ><button style="background-color: mediumslateblue; color: white">
           Bugtracker.WASM (Front)
@@ -34,10 +35,12 @@
         </button></a
       >
         </div>
+        <div>
       <p>
         My other projects are smaller and are mostly used to practice and learn
         new things.
       </p>
+        </div>
     </div>
   </body>
   <footer>
