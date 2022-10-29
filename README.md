@@ -21,13 +21,14 @@
       </p>
       <div>
         <p>Click below to access my Bugtracker repositories :</p>
-
+        <div>
         <a href="https://github.com/Tarcacode/Bugtracker.WASM-repo">
           Bugtracker.WASM (Front)
         </a>
         <a href="https://github.com/Tarcacode/Bugtracker.API-repo">
           Bugtracker.API (Back)
         </a>
+        </div>
       </div>
       <div>
         <p>
