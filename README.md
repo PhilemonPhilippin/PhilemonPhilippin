@@ -25,6 +25,8 @@
         <a href="https://github.com/Tarcacode/Bugtracker.WASM-repo">
           Bugtracker.WASM (Front)
         </a>
+        </div>
+        <div>
         <a href="https://github.com/Tarcacode/Bugtracker.API-repo">
           Bugtracker.API (Back)
         </a>
