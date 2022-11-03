@@ -8,7 +8,7 @@
         <br />
         My name is Philémon, I discovered programming in 2017 but started to
         learn it more seriously from end of 2021. <br />
-        I am currently working as .NET Developer & Programer for Contraste
+        I am currently working as .NET Developer & Programer at Contraste
         Digital, in Belgium.
       </p>
     </div>
