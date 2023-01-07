@@ -22,7 +22,7 @@ It is intended, bear with me. I use it like a sandbox, but i try to give it a se
 
 **[Project - Chillify](https://github.com/Tarcacode/Chillify-repo)**
 
-<br/> <br/>
+<br/>
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
