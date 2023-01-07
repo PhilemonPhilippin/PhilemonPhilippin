@@ -8,29 +8,24 @@ I am currently working as .NET Developer at Contraste Digital, in Belgium.
 
 # Projects
 
-## Bug tracker
+### Bug tracker
 
-If you want to see my biggest project, you can look at my Bugtracker.
-
-This project is made of two parts : the web assembly part and the API part.
+If you want to see my biggest project, you can look at my Bugtracker. This project is made of two parts : the web assembly part and the API part.
 
 **[Project - Bugtracker.WASM (Front)](https://github.com/Tarcacode/Bugtracker.WASM-repo)**
 
 **[Project - Bugtracker.API (Back)](https://github.com/Tarcacode/Bugtracker.API-repo)**
 
-## Chillify
+### Chillify
 
 I am currently working on a project called Chillify.
 
-The idea is to make a big web application to learn and practice many concepts of Web development.
+The idea is to make a big web application to learn and practice many concepts of Web development. Therefore, the project might seem like going in several directions at the same time.
 
-Therefore, the project might seem like going in several directions at the same time. It is intended, bear with me.
-
-I use it like a sandbox, but i try to give it a semblance of realism.
+It is intended, bear with me. I use it like a sandbox, but i try to give it a semblance of realism.
 
 **[Project - Chillify](https://github.com/Tarcacode/Chillify-repo)**
 
-# Conclusion
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
