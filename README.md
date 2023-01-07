@@ -1,14 +1,10 @@
-# About me
-
 **Hello there** 😄
 
 My name is Philémon, I discovered programming in 2017 but started to learn it more seriously from end of 2021.
 
 I am currently working as .NET Developer at Contraste Digital, in Belgium.
 
-# Projects
-
-### Bug tracker
+# Bug tracker
 
 If you want to see my biggest project, you can look at my Bugtracker. This project is made of two parts : the web assembly part and the API part.
 
@@ -16,7 +12,7 @@ If you want to see my biggest project, you can look at my Bugtracker. This proje
 
 **[Project - Bugtracker.API (Back)](https://github.com/Tarcacode/Bugtracker.API-repo)**
 
-### Chillify
+# Chillify
 
 I am currently working on a project called Chillify.
 
