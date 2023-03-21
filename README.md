@@ -2,7 +2,7 @@
 
 My name is Philémon, I discovered programming in 2017 but started to learn it more seriously from end of 2021.
 
-I am currently working as .NET Developer at Contraste Digital, in Belgium.
+I am currently looking for a job as .NET Developer, in Belgium.
 
 # Bug tracker
 
