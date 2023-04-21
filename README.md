@@ -12,8 +12,6 @@ If you want to see my biggest project, you can look at my Bugtracker. This proje
 
 **[Project - Bugtracker.API (Back)](https://github.com/Tarcacode/Bugtracker.API-repo)**
 
-<br/>
-
 # Kitchen
 
 I am currently creating a program to manage recipes. It will be composed of
