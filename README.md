@@ -26,4 +26,4 @@ I am currently creating a program to manage recipes. It will be composed of
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-**[LinkedIn - Philémon Philippin](https://www.linkedin.com/in/philemonphilippin/)**
+[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
