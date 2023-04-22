@@ -1,8 +1,6 @@
 # About
 
-Hello there 😄
-
-My name is **Philémon**.
+Hello there 😄 My name is **Philémon**.
 
 I studied **law** for 5 years, then I worked in social security law.
 
