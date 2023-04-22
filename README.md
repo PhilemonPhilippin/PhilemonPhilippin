@@ -20,7 +20,7 @@ The **languages and tools** i use are :
 
 My work experience includes 5 months of **bootcamp** and 6 months of **work** at Contraste Digital.
 
-I am currently looking for a job as .NET Developer, in Belgium 😁
+I am currently **looking for a job** as .NET Developer, in Belgium 😁
 
 # Bug tracker
 
