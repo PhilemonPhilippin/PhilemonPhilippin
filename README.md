@@ -8,8 +8,8 @@ I discovered **programming** in 2017 and immediatly fell in love with it. I star
 
 The **languages and tools** i use are :
 
-- ![C#](/csharp.png) C# ![Transact-SQL](/sql.png) Transact-SQL ![GIT](/git.png) GIT
-- ![JavaScript](/js.png) JavaScript![HTML](/html.png) HTML 5 ![CSS](/css.png) CSS 3 ![Bootstrap](/bootstrap.png) Bootstrap
+- ![C#](/csharp.png) _C#_ ![Transact-SQL](/sql.png) _Transact-SQL_ ![GIT](/git.png) _GIT_
+- ![JavaScript](/js.png) _JavaScript_ ![HTML](/html.png) _HTML 5_ ![CSS](/css.png) _CSS 3_ ![Bootstrap](/bootstrap.png) _Bootstrap_
 
 My work experience includes 5 months of **bootcamp** and 6 months of **work** at Contraste Digital.
 
