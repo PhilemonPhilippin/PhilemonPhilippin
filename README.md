@@ -29,7 +29,6 @@ I am currently creating a program to manage recipes. It will be composed of
 
 - a server part in ASP.NET API
 - a mobile application in .NET Maui
-- and later, a web user interface made in React.
 
 🧑‍🍳 **[Project - Kitchen (API)](https://github.com/Tarcacode/Kitchen-repo)**
 
