@@ -28,7 +28,7 @@ If you want to see my biggest project, you can look at my Bugtracker. This proje
 I am currently creating a program to manage recipes. It will be composed of
 
 - a server part in ASP.NET API
-- a mobile application in .NET Maui
+- a web application in React JS
 
 🧑‍🍳 **[Project - Kitchen (API)](https://github.com/Tarcacode/Kitchen-repo)**
 
