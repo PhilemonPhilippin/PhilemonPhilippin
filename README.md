@@ -34,7 +34,7 @@ I am currently creating a program to manage recipes. It will be composed of
 
 🧑‍🍳 **[Project - Kitchen (API)](https://github.com/Tarcacode/Kitchen-repo)**
 
-(The user interface is on its way)
+_(The user interface is on its way)_
 
 <br/>
 
