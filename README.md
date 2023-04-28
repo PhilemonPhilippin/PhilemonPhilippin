@@ -15,7 +15,7 @@ My work experience includes 5 months of **bootcamp** and 6 months of **work** at
 
 I am currently **looking for a job** as .NET Developer, in Belgium 😁
 
-Moreover, I am currently learning **React** in order to use it in my current project: **"Kitchen"**
+Moreover, I am currently learning **Angular** in order to use it in my current project: **"Kitchen"**
 
 # Bug tracker
 
@@ -30,7 +30,7 @@ If you want to see my biggest project, you can look at my Bugtracker. This proje
 I am currently creating a program to manage recipes. It will be composed of
 
 - a server part in ASP.NET API
-- a web application in React
+- a web application in Angular
 
 🧑‍🍳 **[Project - Kitchen (API)](https://github.com/Tarcacode/Kitchen-repo)**
 
