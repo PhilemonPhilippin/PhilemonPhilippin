@@ -6,35 +6,41 @@ I studied **law** for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-The **languages and tools** i use are :
+The _languages and tools_ i use are :
 
 - [![C#](/csharp.png) _C#_](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) [![Transact-SQL](/sql.png) _Transact-SQL_](https://en.wikipedia.org/wiki/Transact-SQL) [![GIT](/git.png) _GIT_](https://en.wikipedia.org/wiki/Git)
-- [![JavaScript](/js.png) _JavaScript_](https://en.wikipedia.org/wiki/JavaScript) [![HTML](/html.png) _HTML 5_](https://en.wikipedia.org/wiki/HTML) [![CSS](/css.png) _CSS 3_](https://en.wikipedia.org/wiki/CSS) [![Bootstrap](/bootstrap.png) _Bootstrap_](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>)
+- [![JavaScript](/js.png) _JavaScript_](https://en.wikipedia.org/wiki/JavaScript) [![HTML](/html.png) _HTML 5_](https://en.wikipedia.org/wiki/HTML) [![CSS](/css.png) _CSS 3_](https://en.wikipedia.org/wiki/CSS)
+- [![Angular](/angular.png) _Angular_](<https://en.wikipedia.org/wiki/Angular_(web_framework)>) [![Blazor](/blazor.png) _Blazor_](https://en.wikipedia.org/wiki/Blazor) [![Bootstrap](/bootstrap.png) _Bootstrap_](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>)
 
-My work experience includes 5 months of **bootcamp** and 6 months of **work** at Contraste Digital.
+My work experience includes 5 months of _bootcamp_ and 6 months of work at Contraste.
 
 I am currently **looking for a job** as .NET Developer, in Belgium 😁
 
-Moreover, I am currently learning **Angular** in order to use it in my current project: **"Kitchen"**
+Moreover, I am currently learning Angular in order to use it in my current project: _Kitchen_
 
 # Bug tracker
 
-If you want to see my biggest project, you can look at my Bugtracker. This project is made of two parts : the web assembly part and the API part.
+If you want to see my biggest project, you can look at my _Bugtracker_.
 
-🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/Tarcacode/Bugtracker.WASM-repo)**
+This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.
+
+The server uses **SQL Server** and **ADO.NET** for data access.
 
 🐞 **[Project - Bugtracker.API (Back)](https://github.com/Tarcacode/Bugtracker.API-repo)**
 
+🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/Tarcacode/Bugtracker.WASM-repo)**
+
 # Kitchen
 
-I am currently creating a program to manage recipes. It will be composed of
+I am currently creating a program to manage recipes : _Kitchen_.
 
-- a server part in ASP.NET API
-- a web application in Angular
+It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
 
-🧑‍🍳 **[Project - Kitchen (API)](https://github.com/Tarcacode/Kitchen-repo)**
+The server uses **SQL Server** and **Entity Framework** for data access.
 
-_(The user interface is on its way)_
+🍽️ **[Project - Kitchen (Back)](https://github.com/Tarcacode/Kitchen-repo)**
+
+🍽️ **[Project - Kitchen (Front)](https://github.com/Tarcacode/KitchenNG-repo)**
 
 <br/>
 
