@@ -6,7 +6,7 @@ I studied **law** for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-The _languages and tools_ i use are :
+The _languages and tools_ I use are :
 
 - [![C#](/csharp.png) _C#_](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) [![Transact-SQL](/sql.png) _Transact-SQL_](https://en.wikipedia.org/wiki/Transact-SQL) [![GIT](/git.png) _GIT_](https://en.wikipedia.org/wiki/Git)
 - [![JavaScript](/js.png) _JavaScript_](https://en.wikipedia.org/wiki/JavaScript) [![HTML](/html.png) _HTML 5_](https://en.wikipedia.org/wiki/HTML) [![CSS](/css.png) _CSS 3_](https://en.wikipedia.org/wiki/CSS)
@@ -26,21 +26,21 @@ This project is made of two parts : the server in **ASP.NET API** and the user i
 
 The server uses **SQL Server** and **ADO.NET** for data access.
 
-🐞 **[Project - Bugtracker.API (Back)](https://github.com/Tarcacode/Bugtracker.API-repo)**
+🐞 **[Project - Bugtracker.API (Back)](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)**
 
-🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/Tarcacode/Bugtracker.WASM-repo)**
+🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)**
 
 # Kitchen
 
-I am currently creating a program to manage recipes : _Kitchen_.
+I am currently creating a program to manage recipes: _Kitchen_.
 
 It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
 
 The server uses **SQL Server** and **Entity Framework** for data access.
 
-🍽️ **[Project - Kitchen (Back)](https://github.com/Tarcacode/Kitchen-repo)**
+🍽️ **[Project - Kitchen (Back)](https://github.com/PhilemonPhilippin/Kitchen-repo)**
 
-🍽️ **[Project - Kitchen (Front)](https://github.com/Tarcacode/KitchenNG-repo)**
+🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
 
 <br/>
 
