@@ -16,7 +16,7 @@ My work experience includes 5 months of _bootcamp_ and 6 months of work at Contr
 
 I am currently **looking for a job** as .NET Developer, in Belgium 😁
 
-Moreover, I am currently learning Angular in order to use it in my current project: _Kitchen_
+For the time being, I'm mainly taking online courses to master C# further.
 
 # Bug tracker
 
@@ -32,7 +32,7 @@ The server uses **SQL Server** and **ADO.NET** for data access.
 
 # Kitchen
 
-I am currently creating a program to manage recipes: _Kitchen_.
+I started creating a program to manage recipes: _Kitchen_.
 
 It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
 
@@ -41,6 +41,8 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 🍽️ **[Project - Kitchen (Back)](https://github.com/PhilemonPhilippin/Kitchen-repo)**
 
 🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
+
+This project has been put on hold. I'll resume it at a later date, incorporating the new knowledge I've acquired in the meantime.
 
 <br/>
 
