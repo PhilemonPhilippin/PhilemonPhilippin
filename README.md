@@ -42,8 +42,6 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 
 🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
 
-This project has been put on hold. I'll resume it at a later date, incorporating the new knowledge I've acquired in the meantime.
-
 <br/>
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
