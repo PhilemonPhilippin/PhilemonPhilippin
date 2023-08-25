@@ -6,7 +6,7 @@ I studied **law** for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-I want to make **better software** so that people have easier and more enjoyable access to technology.
+I want to make **better software** so that every one has easier and more enjoyable access to technology.
 
 The _languages and tools_ I use are :
 
