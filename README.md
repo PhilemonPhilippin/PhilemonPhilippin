@@ -6,6 +6,8 @@ I studied **law** for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
+I want to make **better software** so that people have easier and more enjoyable access to technology.
+
 The _languages and tools_ I use are :
 
 - [![C#](/csharp.png) _C#_](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) [![Transact-SQL](/sql.png) _Transact-SQL_](https://en.wikipedia.org/wiki/Transact-SQL) [![GIT](/git.png) _GIT_](https://en.wikipedia.org/wiki/Git)
@@ -16,7 +18,9 @@ My work experience includes 5 months of _bootcamp_ and 6 months of work at Contr
 
 I am currently **looking for a job** as .NET Developer, in Belgium 😁
 
-For the time being, I'm mainly taking online courses to master C# further.
+My **career goals** are rooted in a passion for continuous learning and the pursuit of excellence in my work.
+
+I aim to constantly expand my knowledge by adopting new languages, tools and methodologies, and by contributing to projects that have a **positive impact**.
 
 # Bug tracker
 
@@ -42,10 +46,9 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 
 🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
 
-This project has been put on hold. I'll resume it at a later date, incorporating the new knowledge I've acquired in the meantime.
-
 <br/>
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 [![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
+[![Personnal Website - Philémon Philippin](/philemonphilippinwebsite.png)](https://philemonphilippin.github.io/)
