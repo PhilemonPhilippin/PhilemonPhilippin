@@ -51,4 +51,3 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 [![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
-[![Personnal Website - Philémon Philippin](/philemonphilippinwebsite.png)](https://philemonphilippin.github.io/)
