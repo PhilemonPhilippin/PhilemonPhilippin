@@ -1,4 +1,4 @@
-# About
+## About
 
 Hello there 😄 My name is **Philémon**.
 
@@ -10,9 +10,11 @@ I want to make better software so that every one has easier and more enjoyable a
 
 The **languages and tools** I use are:
 
-- [![C#](/csharp.png) _C#_](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) [![Transact-SQL](/sql.png) _Transact-SQL_](https://en.wikipedia.org/wiki/Transact-SQL) [![GIT](/git.png) _GIT_](https://en.wikipedia.org/wiki/Git)
-- [![JavaScript](/js.png) _JavaScript_](https://en.wikipedia.org/wiki/JavaScript) [![HTML](/html.png) _HTML 5_](https://en.wikipedia.org/wiki/HTML) [![CSS](/css.png) _CSS 3_](https://en.wikipedia.org/wiki/CSS)
-- [![Angular](/angular.png) _Angular_](<https://en.wikipedia.org/wiki/Angular_(web_framework)>) [![Blazor](/blazor.png) _Blazor_](https://en.wikipedia.org/wiki/Blazor) [![Bootstrap](/bootstrap.png) _Bootstrap_](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>)
+![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png)
+
+![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png)
+
+![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png)
 
 My **work experience** includes 5 months of _job training_ and 6 months of _internship_ in a consulting firm.
 
@@ -22,12 +24,12 @@ I aim to constantly expand my knowledge by adopting new languages, tools and met
 
 At the moment, I'm keeping myself **busy by**
 
-- Looking for a job as a Software Developer,
+- Looking for a job as a Software Developer in Belgium,
 - Developing functionalities for the website of an non-profit association in the cultural sector,
 - Studying programming in more detail via LeetCode as well as via small projects to practice the concepts I'm discovering,
 - And studying Harvard CS50’s Introduction to Computer Science.
 
-# Kitchen
+## Kitchen
 
 I started creating a program to manage recipes: _Kitchen_. This projet isn't over yet.
 
@@ -39,7 +41,7 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 
 🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
 
-# Bug tracker
+## Bug tracker
 
 If you want to see my first relatively large project, you can look at my _Bugtracker_.
 I built it in about a month during my .NET job training.
