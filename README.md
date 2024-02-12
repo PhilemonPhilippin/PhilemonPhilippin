@@ -1,4 +1,4 @@
-## About
+# 👤 About
 
 Hello there 😄 My name is **Philémon**.
 
@@ -10,26 +10,21 @@ I want to make better software so that every one has easier and more enjoyable a
 
 The **languages and tools** I use are:
 
-![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png)
-
-![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png)
-
-![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png)
+![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png) &nbsp; ![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png) &nbsp; ![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png)
 
 My **work experience** includes 5 months of _job training_ and 6 months of _internship_ in a consulting firm.
 
 My career goals are rooted in a passion for continuous learning and the pursuit of excellence in my work.
 
-I aim to constantly expand my knowledge by adopting new languages, tools and methodologies, and by contributing to projects that have a positive impact.
-
 At the moment, I'm keeping myself **busy by**
 
 - Looking for a job as a Software Developer in Belgium,
 - Developing functionalities for the website of an non-profit association in the cultural sector,
-- Studying programming in more detail via LeetCode as well as via small projects to practice the concepts I'm discovering,
+- Studying programming via LeetCode as well as via small projects to practice the concepts I'm discovering,
 - And studying Harvard CS50’s Introduction to Computer Science.
 
-## Kitchen
+# Projects
+## 🍽️ Kitchen
 
 I started creating a program to manage recipes: _Kitchen_. This projet isn't over yet.
 
@@ -37,11 +32,23 @@ It is composed of two parts: the server in **ASP.NET API** and the user interfac
 
 The server uses **SQL Server** and **Entity Framework** for data access.
 
-🍽️ **[Project - Kitchen (Back)](https://github.com/PhilemonPhilippin/Kitchen-repo)**
+<table>
+<tr>
+<th>Back end</th>
+<th>Front end</th>
+</tr>
+<tr></tr>
+<td><a href="https://github.com/PhilemonPhilippin/Kitchen-repo">Kitchen (Server)</a>
+</td>
+<td><a href="https://github.com/PhilemonPhilippin/KitchenNG-repo">KitchenNG (Client)</a>
+</td>
+</table>
 
-🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)**
+<!-- 🍽️ **[Project - Kitchen (Back)](https://github.com/PhilemonPhilippin/Kitchen-repo)**
 
-## Bug tracker
+🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)** -->
+
+## 🐞 Bug tracker
 
 If you want to see my first relatively large project, you can look at my _Bugtracker_.
 I built it in about a month during my .NET job training.
@@ -50,9 +57,21 @@ This project is made of two parts: the server in **ASP.NET API** and the user in
 
 The server uses **SQL Server** and **ADO.NET** for data access.
 
-🐞 **[Project - Bugtracker.API (Back)](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)**
+<table>
+<tr>
+<th>Back end</th>
+<th>Front end</th>
+</tr>
+<tr></tr>
+<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.API-repo">Bugtracker.API (Server)</a>
+</td>
+<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo">Bugtracker.WASM (Client)</a>
+</td>
+</table>
 
-🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)**
+<!-- 🐞 **[Project - Bugtracker.API (Back)](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)**
+
+🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)** -->
 
 <br/>
 
