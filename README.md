@@ -38,15 +38,11 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 <th>Front end</th>
 </tr>
 <tr></tr>
-<td><a href="https://github.com/PhilemonPhilippin/Kitchen-repo">Kitchen (Server)</a>
+<td><a href="https://github.com/PhilemonPhilippin/Kitchen-repo">Kitchen</a>
 </td>
-<td><a href="https://github.com/PhilemonPhilippin/KitchenNG-repo">KitchenNG (Client)</a>
+<td><a href="https://github.com/PhilemonPhilippin/KitchenNG-repo">KitchenNG</a>
 </td>
 </table>
-
-<!-- 🍽️ **[Project - Kitchen (Back)](https://github.com/PhilemonPhilippin/Kitchen-repo)**
-
-🍽️ **[Project - Kitchen (Front)](https://github.com/PhilemonPhilippin/KitchenNG-repo)** -->
 
 ## 🐞 Bug tracker
 
@@ -63,15 +59,11 @@ The server uses **SQL Server** and **ADO.NET** for data access.
 <th>Front end</th>
 </tr>
 <tr></tr>
-<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.API-repo">Bugtracker.API (Server)</a>
+<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.API-repo">Bugtracker.API</a>
 </td>
-<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo">Bugtracker.WASM (Client)</a>
+<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo">Bugtracker.WASM</a>
 </td>
 </table>
-
-<!-- 🐞 **[Project - Bugtracker.API (Back)](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)**
-
-🐞 **[Project - Bugtracker.WASM (Front)](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)** -->
 
 <br/>
 
