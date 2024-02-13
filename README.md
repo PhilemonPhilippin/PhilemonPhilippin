@@ -2,11 +2,9 @@
 
 Hello there 😄 My name is **Philémon**.
 
-I studied **law** for 5 years, then I worked in social security law.
+I studied law for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
-
-I want to make better software so that every one has easier and more enjoyable access to technology.
 
 The **languages and tools** I use are:
 
@@ -16,12 +14,12 @@ My **work experience** includes 5 months of job training and 6 months of interns
 
 My career goals are rooted in a passion for continuous learning and the pursuit of excellence in my work.
 
-At the moment, I'm keeping myself **busy by**
+At the moment, I'm keeping myself busy by
 
 - Looking for a Software Developer job in Belgium,
 - Developing functionalities for the website of an non-profit association in the cultural sector,
-- Studying programming via LeetCode as well as via small projects to practice the concepts I'm discovering,
-- And studying Harvard CS50’s Introduction to Computer Science.
+- Studying programming via LeetCode as well as via modest personal projects,
+- Studying Harvard CS50’s Introduction to Computer Science.
 
 # Projects
 ## 🍽️ Kitchen
