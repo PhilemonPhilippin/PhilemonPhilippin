@@ -6,7 +6,7 @@ I studied law for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-The **languages and tools** I use are:
+The **languages and tools** I use are :
 
 ![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png) &nbsp; ![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png) &nbsp; ![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png)
 
@@ -24,9 +24,9 @@ At the moment, I'm keeping myself busy by
 # Projects
 ## 🍽️ Kitchen
 
-I started creating a program to manage recipes: Kitchen.
+I started creating a program to manage recipes : Kitchen.
 
-It is composed of two parts: the server in **ASP.NET API** and the user interface in **Angular**.
+It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
 
 The server uses **SQL Server** and **Entity Framework** for data access.
 
@@ -47,7 +47,7 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 If you want to see my first relatively large project, you can look at my Bugtracker.
 I built it in about a month during my .NET job training.
 
-This project is made of two parts: the server in **ASP.NET API** and the user interface in **Blazor**.
+This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.
 
 The server uses **SQL Server** and **ADO.NET** for data access.
 
