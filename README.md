@@ -17,7 +17,7 @@ My career goals are rooted in a passion for continuous learning and the pursuit 
 At the moment, I'm keeping myself busy by
 
 - Looking for a Software Developer job in Belgium,
-- Developing functionalities for the website of an non-profit association in the cultural sector,
+- Developing functionalities for the website of a non-profit association in the cultural sector,
 - Studying programming via LeetCode as well as via modest personal projects,
 - Studying Harvard CS50’s Introduction to Computer Science.
 
