@@ -6,7 +6,7 @@ I studied law for 5 years, then I worked in social security law.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-The **languages and tools** I use are :
+The **languages and tools** I use the most are :
 
 <img src="./csharp.png" alt="C#" title="C#">  &nbsp;<img src="./sql.png" alt="T-SQL" title="T-SQL">  &nbsp;
 <img src="./git.png" alt="Git" title="Git">  &nbsp;<img src="./js.png" alt="JavaScript" title="JavaScript">  
