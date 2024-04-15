@@ -8,8 +8,6 @@ I discovered **programming** in 2017 and immediatly fell in love with it. I star
 
 The **languages and tools** I use are :
 
-<!-- ![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png) &nbsp; ![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png) &nbsp; ![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png) -->
-
 <img src="./csharp.png" alt="C#" title="C#"> <img src="./sql.png" alt="T-SQL" title="T-SQL"> 
 <img src="./git.png" alt="Git" title="Git">  <img src="./js.png" alt="JavaScript" title="JavaScript">  
 <img src="./html.png" alt="HTML" title="HTML">   <img src="./css.png" alt="CSS" title="CSS"> 
