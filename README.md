@@ -8,10 +8,10 @@ I discovered **programming** in 2017 and immediatly fell in love with it. I star
 
 The **languages and tools** I use are :
 
-<img src="./csharp.png" alt="C#" title="C#"> <img src="./sql.png" alt="T-SQL" title="T-SQL"> 
-<img src="./git.png" alt="Git" title="Git">  <img src="./js.png" alt="JavaScript" title="JavaScript">  
-<img src="./html.png" alt="HTML" title="HTML">   <img src="./css.png" alt="CSS" title="CSS"> 
-<img src="./angular.png" alt="Angular" title="Angular">   <img src="./blazor.png" alt="Blazor" title="Blazor">
+<img src="./csharp.png" alt="C#" title="C#">  &nbsp;<img src="./sql.png" alt="T-SQL" title="T-SQL">  &nbsp;
+<img src="./git.png" alt="Git" title="Git">  &nbsp;<img src="./js.png" alt="JavaScript" title="JavaScript">  
+<img src="./html.png" alt="HTML" title="HTML">  &nbsp;<img src="./css.png" alt="CSS" title="CSS">  &nbsp;
+<img src="./angular.png" alt="Angular" title="Angular">  &nbsp;<img src="./blazor.png" alt="Blazor" title="Blazor">
 
 My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.
 
