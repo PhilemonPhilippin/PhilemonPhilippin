@@ -8,7 +8,12 @@ I discovered **programming** in 2017 and immediatly fell in love with it. I star
 
 The **languages and tools** I use are :
 
-![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png) &nbsp; ![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png) &nbsp; ![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png)
+<!-- ![C#](/csharp.png) &nbsp; ![Transact-SQL](/sql.png) &nbsp; ![GIT](/git.png) &nbsp; ![JavaScript](/js.png) &nbsp; ![HTML](/html.png) &nbsp; ![CSS](/css.png) &nbsp; ![Angular](/angular.png) &nbsp; ![Blazor](/blazor.png) -->
+
+<img src="./csharp.png" alt="C#" title="C#"> <img src="./sql.png" alt="T-SQL" title="T-SQL"> 
+<img src="./git.png" alt="Git" title="Git">  <img src="./js.png" alt="JavaScript" title="JavaScript">  
+<img src="./html.png" alt="HTML" title="HTML">   <img src="./css.png" alt="CSS" title="CSS"> 
+<img src="./angular.png" alt="Angular" title="Angular">   <img src="./blazor.png" alt="Blazor" title="Blazor">
 
 My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.
 
@@ -16,11 +21,12 @@ My career goals are rooted in a passion for continuous learning and the pursuit 
 
 At the moment, I'm keeping myself busy by
 
-- Looking for a Software Developer job in Belgium,
+- Looking for a Software developer job in Belgium, in the surroundings of Brussels,
 - Attending the Junior Developer training at BeCode,
-- Developing functionalities for the website of a non-profit association in the cultural sector,
-- Studying programming via LeetCode as well as via modest personal projects,
-- Studying Harvard CS50’s Introduction to Computer Science.
+- Developing functionalities for the Wix website of a non-profit association in the cultural sector,
+- Studying for Harvard CS50’s Introduction to Computer Science certification,
+- Studying for freeCodeCamp's Responsive Web Design certification,
+- Studying programming in general via LeetCode as well as via modest personal projects.
 
 # Projects
 ## 🍽️ Kitchen
@@ -68,4 +74,4 @@ The server uses **SQL Server** and **ADO.NET** for data access.
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
+[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)&nbsp; Contact me on LinkedIn!
