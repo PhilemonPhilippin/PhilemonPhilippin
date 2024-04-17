@@ -1,20 +1,22 @@
 # 👤 About
 
-Hello there 😄 My name is **Philémon**.
-
-I studied law for 5 years, then I worked in social security law.
-
+Hello there 😄 My name is **Philémon**.  
+I studied law for 5 years, then I worked in social security law.  
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
 The **languages and tools** I use the most are :
 
-<img src="./csharp.png" alt="C#" title="C#">  &nbsp;<img src="./sql.png" alt="T-SQL" title="T-SQL">  &nbsp;
-<img src="./git.png" alt="Git" title="Git">  &nbsp;<img src="./js.png" alt="JavaScript" title="JavaScript">  
-<img src="./html.png" alt="HTML" title="HTML">  &nbsp;<img src="./css.png" alt="CSS" title="CSS">  &nbsp;
-<img src="./angular.png" alt="Angular" title="Angular">  &nbsp;<img src="./blazor.png" alt="Blazor" title="Blazor">
+![C#](./csharp.png "C#") &nbsp; 
+![T-SQL](./sql.png "T-SQL") &nbsp; 
+![Git](./git.png "Git") &nbsp; 
+![JavaScript](./js.png "JavaScript") &nbsp; 
+![HTML](./html.png "HTML") &nbsp; 
+![CSS](./css.png "CSS") &nbsp; 
+![Angular](./angular.png "Angular") &nbsp; 
+![Blazor](./blazor.png "Blazor") 
+---
 
-My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.
-
+My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.  
 My career goals are rooted in a passion for continuous learning and the pursuit of excellence in my work.
 
 At the moment, I'm keeping myself busy by
@@ -35,17 +37,9 @@ It is composed of two parts : the server in **ASP.NET API** and the user interfa
 
 The server uses **SQL Server** and **Entity Framework** for data access.
 
-<table>
-<tr>
-<th>Back end</th>
-<th>Front end</th>
-</tr>
-<tr></tr>
-<td><a href="https://github.com/PhilemonPhilippin/Kitchen-repo">Kitchen</a>
-</td>
-<td><a href="https://github.com/PhilemonPhilippin/KitchenNG-repo">KitchenNG</a>
-</td>
-</table>
+| Back end | Front end |
+| ---      | ---       |
+| [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo)| [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo)|
 
 ## 🐞 Bug tracker
 
@@ -56,20 +50,14 @@ This project is made of two parts : the server in **ASP.NET API** and the user i
 
 The server uses **SQL Server** and **ADO.NET** for data access.
 
-<table>
-<tr>
-<th>Back end</th>
-<th>Front end</th>
-</tr>
-<tr></tr>
-<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.API-repo">Bugtracker.API</a>
-</td>
-<td><a href="https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo">Bugtracker.WASM</a>
-</td>
-</table>
+| Back end | Front end |
+| ---      | ---       |
+| [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)| [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)|
 
 <br/>
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)&nbsp; Contact me on LinkedIn!
+### Contact me on LinkedIn!
+
+[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
