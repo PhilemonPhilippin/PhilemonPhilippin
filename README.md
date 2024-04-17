@@ -31,10 +31,8 @@ At the moment, I'm keeping myself busy by
 # Projects
 ## 🍽️ Kitchen
 
-I started creating a program to manage recipes : Kitchen.
-
-It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
-
+I started creating a program to manage recipes : Kitchen.  
+It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.  
 The server uses **SQL Server** and **Entity Framework** for data access.
 
 | Back end | Front end |
@@ -44,10 +42,8 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 ## 🐞 Bug tracker
 
 If you want to see my first relatively large project, you can look at my Bugtracker.
-I built it in about a month during my .NET job training.
-
-This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.
-
+I built it in about a month during my .NET job training.  
+This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.  
 The server uses **SQL Server** and **ADO.NET** for data access.
 
 | Back end | Front end |
