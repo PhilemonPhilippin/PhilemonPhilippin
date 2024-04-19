@@ -56,4 +56,4 @@ I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 ### Contact me on LinkedIn!
 
-[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/)
+[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/ "LinkedIn vers philemonphilippin")
