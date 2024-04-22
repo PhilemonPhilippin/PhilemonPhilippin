@@ -1,4 +1,5 @@
-# 👤 About
+👤 About
+===============
 
 Hello there 😄 My name is **Philémon**.  
 I studied law for 5 years, then I worked in social security law.  
@@ -28,15 +29,17 @@ At the moment, I'm keeping myself busy by
 - Studying for freeCodeCamp's Responsive Web Design certification,
 - Studying programming in general via LeetCode as well as via modest personal projects.
 
-# Projects
+Projects
+===============
+
 ## 🍽️ Kitchen
 
 I started creating a program to manage recipes : Kitchen.  
 It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.  
 The server uses **SQL Server** and **Entity Framework** for data access.
 
-| Back end | Front end |
-| ---      | ---       |
+| Back end  | Front end |
+| --------- | --------- |
 | [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo)| [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo)|
 
 ## 🐞 Bug tracker
@@ -46,8 +49,8 @@ I built it in about a month during my .NET job training.
 This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.  
 The server uses **SQL Server** and **ADO.NET** for data access.
 
-| Back end | Front end |
-| ---      | ---       |
+| Back end  | Front end |
+| --------- | --------- |
 | [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo)| [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo)|
 
 <br/>
