@@ -43,9 +43,9 @@ This project is still in its early stages. Details will come later as the applic
 
 ## 🍽️ Kitchen
 
-I started creating a program to manage recipes : Kitchen.  
+I created a program to manage recipes : Kitchen.  
 It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.  
-The server uses **SQL Server** and **Entity Framework** for data access.
+Click below for more details.
 
 | Back end  | Front end |
 | --------- | --------- |
@@ -56,7 +56,7 @@ The server uses **SQL Server** and **Entity Framework** for data access.
 If you want to see my first relatively large project, you can look at my Bugtracker.
 I built it in about a month during my .NET job training.  
 This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.  
-The server uses **SQL Server** and **ADO.NET** for data access.
+Click below for more details.
 
 | Back end  | Front end |
 | --------- | --------- |
