@@ -8,13 +8,12 @@ I discovered **programming** in 2017 and immediatly fell in love with it. I star
 The **languages and tools** I use the most are :
 
 ![C#](./csharp.png "C#") &nbsp; 
-![T-SQL](./sql.png "T-SQL") &nbsp; 
+![SQL](./sql.png "SQL") &nbsp; 
 ![Git](./git.png "Git") &nbsp; 
 ![JavaScript](./js.png "JavaScript") &nbsp; 
 ![HTML](./html.png "HTML") &nbsp; 
 ![CSS](./css.png "CSS") &nbsp; 
-![Angular](./angular.png "Angular") &nbsp; 
-![Blazor](./blazor.png "Blazor") 
+![Angular](./angular.png "Angular")
 ---
 
 My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.  
@@ -25,9 +24,7 @@ At the moment, I'm keeping myself busy by
 - Looking for a Software developer job in Belgium, in the surroundings of Brussels,
 - Attending the Junior Developer training at BeCode,
 - Developing functionalities for the Wix website of a non-profit association in the cultural sector,
-- Studying for Harvard CS50’s Introduction to Computer Science certification,
-- Studying for freeCodeCamp's Responsive Web Design certification,
-- Studying programming in general via LeetCode as well as via modest personal projects.
+- Studying for Harvard CS50’s Introduction to Computer Science certification.
 
 Projects
 ===============
