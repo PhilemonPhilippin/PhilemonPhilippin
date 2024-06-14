@@ -1,11 +1,11 @@
 # 👤 About
 
-Hello there 😄 My name is **Philémon**.  
-I studied law for 5 years, then I worked in social security law.  
+Hello there 😄 My name is **Philémon**.
+
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-My **work experience** includes 5 months of job training and 6 months of internship in a consulting firm.  
-My career goals are rooted in a passion for continuous learning and the pursuit of excellence in my work.
+My **work experience** includes 6 months of work in a consulting firm and 5 months of job training.  
+My career goals are rooted in a passion for continuous learning.
 
 The **languages and tools** I use the most are :
 
@@ -55,6 +55,8 @@ Click below for more details.
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-### Contact me on LinkedIn!
+## Contact me!
 
-[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/ "LinkedIn vers philemonphilippin")
+| LinkedIn                                                                                                                            | Email                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/ "LinkedIn vers philemonphilippin") | philemonphilippin.opentowork@outlook.com |
