@@ -51,6 +51,10 @@ Click below for more details.
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo) | [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo) |
 
+## 📄 CV
+
+You can find my CV at the following address : https://philemonphilippin.github.io/cv/
+
 <br/>
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
