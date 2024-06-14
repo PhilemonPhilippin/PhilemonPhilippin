@@ -55,7 +55,7 @@ Click below for more details.
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-## Contact me!
+### Contact me!
 
 | LinkedIn                                                                                                                            | Email                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
