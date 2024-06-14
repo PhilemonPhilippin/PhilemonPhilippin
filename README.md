@@ -30,15 +30,6 @@ At the moment, I'm keeping myself busy by
 
 # Projects
 
-## 👨‍🍳 InnoCheffing
-
-InnoCheffing is a web application designed to help me invent recipes and prepare dishes based on them. The overall idea of the app is to make creating new recipes easy, interesting and fun.  
-This project is still in its early stages. Details will come later as the application is built.
-
-| Back end                                                               |
-| ---------------------------------------------------------------------- |
-| [InnoCheffing](https://github.com/PhilemonPhilippin/InnoCheffing-repo) |
-
 ## 🍽️ Kitchen
 
 I created a program to manage recipes : Kitchen.  
