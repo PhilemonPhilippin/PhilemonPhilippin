@@ -53,7 +53,7 @@ Click below for more details.
 
 ## 📄 CV
 
-You can find my CV at the following address : https://philemonphilippin.github.io/cv/
+You can find my CV at the following address : https://philemonphilippin.github.io
 
 <br/>
 
