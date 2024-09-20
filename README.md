@@ -23,7 +23,7 @@ The **languages and tools** I use the most are :
 
 At the moment, I'm keeping myself busy by
 
-- Looking for an internship for a Software developer role in Belgium, in the surroundings of Brussels,
+- Looking for an internship for a .NET Junior Developer role in Belgium, in the surroundings of Brussels,
 - Attending the Junior Developer training at BeCode,
 - Developing functionalities for the Wix website of a non-profit association in the cultural sector,
 - Studying for Harvard CS50’s Introduction to Computer Science certification.
