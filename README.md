@@ -4,7 +4,10 @@ Hello there 😄 My name is **Philémon**.
 
 I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
 
-My **work experience** includes 6 months of work in a consulting firm and 5 months of job training.  
+My **work experience** includes 6 months of work in a consulting firm as a .NET back-end developer.     
+It also includes 5 months of professional training in .NET development, focusing on the web development fundamentals and going far enough into .NET back-end development.  
+Finally, my work experience also includes 7 months of professional training in web development, focusing on the JavaScript ecosystem and front-end development.  
+
 My career goals are rooted in a passion for continuous learning.
 
 The **languages and tools** I use the most are :
@@ -25,7 +28,7 @@ At the moment, I'm keeping myself busy by
 
 - Looking for a 2 or 3 month unpaid internship for a .NET Junior Developer role in Belgium, in the surroundings of Brussels,
 - Working on my new project InnoCheffing, the more ambitious rewrite of my Kitchen web application,
-- Developing functionalities for the Wix website of a non-profit association in the cultural sector,
+- Developing functionalities for the Wix website of a non-profit association in the cultural sector ([Les Trouvères](https://www.lestrouveres.com/)),
 - (this is paused for the moment) Studying for Harvard CS50’s Introduction to Computer Science certification.
 
 # Projects
