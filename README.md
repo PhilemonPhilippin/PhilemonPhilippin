@@ -29,7 +29,7 @@ At the moment, I'm keeping myself busy by
 - Looking for a 2 or 3 month unpaid internship for a .NET Junior Developer role in Belgium, in the surroundings of Brussels,
 - Working on my new project InnoCheffing, the more ambitious rewrite of my Kitchen web application,
 - Developing functionalities for the Wix website of a non-profit association in the cultural sector ([Les Trouvères](https://www.lestrouveres.com/)),
-- (this is paused for the moment) Studying for Harvard CS50’s Introduction to Computer Science certification.
+- Studying for Harvard CS50’s Introduction to Computer Science certification (this is paused for the moment).
 
 # Projects
 
