@@ -33,7 +33,7 @@ At the moment, I'm keeping myself busy by
 
 # Projects
 
-## 🍳 InnoCheffing
+## 🍲 InnoCheffing
 
 I am currently rewriting my old Kitchen project into a new, more ambitious but less complex web application.  
 Click below for more details.
