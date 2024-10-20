@@ -35,7 +35,7 @@ At the moment, I'm keeping myself busy by
 
 ## 🍲 InnoCheffing
 
-I hope I have time to rewrite my old Kitchen project into a new, more ambitious but less complex web application.  
+I hope I have time to rewrite my old Kitchen project into a new, more ambitious web application.  
 For the moment, I've only done the API part, which includes CRUD functions of the data relating to the recipes.  
 Click below for more details.
 
