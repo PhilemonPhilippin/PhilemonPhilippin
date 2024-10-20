@@ -33,15 +33,6 @@ At the moment, I'm keeping myself busy by
 
 # Projects
 
-## 🚋 Transportophile
-
-This project is not yet fully defined.  
-The aim is to get back into Angular by using a Belgian public API. Probably also keeping the project small-scale.  
-Click below for more details.
-
-[Transportophile](https://github.com/PhilemonPhilippin/Transportophile-repo)
-
-
 ## 🍲 InnoCheffing
 
 I hope I have time to rewrite my old Kitchen project into a new, more ambitious but less complex web application.  
