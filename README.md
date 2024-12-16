@@ -27,18 +27,10 @@ The **languages and tools** I use the most are :
 At the moment, I'm keeping myself busy by
 
 - Looking for a 2 or 3 month unpaid internship for a .NET Junior Developer role in Belgium, in the surroundings of Brussels,
-- Developing functionalities for the Wix website of a non-profit association in the cultural sector ([Les Trouvères](https://www.lestrouveres.com/)),
-- Refreshing my knowledge of TypeScript and Angular for a few days with the aim of making a web application to hand in as a final project for my Harvard CS50’s Introduction to Computer Science certification.
+- Exercising my algorithmic skills through code challenges,
+- Finalizing the submission of my final project for my Harvard CS50’s Introduction to Computer Science certification.
 
 # Projects
-
-## 🍲 InnoCheffing
-
-I hope I have time to rewrite my old Kitchen project into a new, more ambitious web application.  
-For the moment, I've only done the API part, which includes CRUD functions of the data relating to the recipes.  
-Click below for more details.
-
-[InnoCheffing](https://github.com/PhilemonPhilippin/InnoCheffing-repo)
 
 ## 🍽️ Kitchen
 
