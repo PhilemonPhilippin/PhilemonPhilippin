@@ -29,24 +29,31 @@ At the moment, I'm keeping myself busy by
 - Looking for a new opportunity as a Junior .NET Junior Developer in Belgium, in the surroundings of Brussels,
 - Exercising my algorithmic skills through code challenges and deepening my knowledge of C# and .NET trough small projects.
 
-# Projects
+## Projects
 
-## 🍽️ Kitchen
+### 🥗 Ideas for Meals
+
+I created a small web application to generate random meal ideas, for my CS50: Introduction to Computer Science course from Harvard.  
+It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
+
+| Back end                                                                 | Front end                                                                          |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [IdeasForMeals](https://github.com/PhilemonPhilippin/IdeasForMeals-repo) | [ideas-for-meals-ng](https://github.com/PhilemonPhilippin/ideas-for-meals-ng-repo) |
+
+### 🍽️ Kitchen
 
 I created a program to manage recipes : Kitchen.  
-It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.  
-Click below for more details.
+It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
 
 | Back end                                                     | Front end                                                        |
 | ------------------------------------------------------------ | ---------------------------------------------------------------- |
 | [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo) | [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo) |
 
-## 🐞 Bug tracker
+### 🐞 Bug tracker
 
 If you want to see my first relatively large project, you can look at my Bugtracker.
 I built it in about a month during my .NET job training.  
-This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.  
-Click below for more details.
+This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.
 
 | Back end                                                                   | Front end                                                                    |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -60,7 +67,7 @@ You can find my CV at the following address : https://philemonphilippin.github.i
 
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
-### Contact me!
+#### Contact me!
 
 | LinkedIn                                                                                                                            | Email                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
