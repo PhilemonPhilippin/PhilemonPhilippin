@@ -63,8 +63,6 @@ This project is made of two parts : the server in **ASP.NET API** and the user i
 
 You can find my CV at the following address : https://philemonphilippin.github.io
 
-<br/>
-
 I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 #### Contact me!
