@@ -26,9 +26,8 @@ The **languages and tools** I use the most are :
 
 At the moment, I'm keeping myself busy by
 
-- Looking for a new opportunity as a junior .NET Developer in Belgium, in the surroundings of Brussels,
-- Exercising my algorithmic skills through code challenges and deepening my knowledge of .NET trough small projects,
-- Finalizing the submission of my final project for my Harvard CS50’s Introduction to Computer Science certification.
+- Looking for a new opportunity as a Junior .NET Junior Developer in Belgium, in the surroundings of Brussels,
+- Exercising my algorithmic skills through code challenges and deepening my knowledge of C# and .NET trough small projects.
 
 # Projects
 
