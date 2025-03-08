@@ -27,9 +27,7 @@ The **languages and tools** I use the most are :
 At the moment, I'm keeping myself busy by
 
 - Looking for a new opportunity as a .NET Junior Developer in Belgium, in the surroundings of Brussels,
-- Deepening my knowledge of C# and .NET by building small projects and consulting documentation and videos,
-- Exercising my algorithmic skills through C# code challenges on CodeWars, LeetCode and HackerRank,
-- Learning more about JS with the freecodecamp JavaScript Algorithms and Data Structures certification.
+- Deepening my knowledge of C#, .NET and Angular by building small projects and consulting documentation and videos.
 
 ## Projects
 
