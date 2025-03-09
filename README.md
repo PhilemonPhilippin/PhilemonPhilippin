@@ -26,8 +26,8 @@ The **languages and tools** I use the most are :
 
 At the moment, I'm keeping myself busy by
 
-- Looking for a new opportunity as a .NET Junior Developer in Belgium, in the surroundings of Brussels,
-- Deepening my knowledge of C#, .NET and Angular by building small projects and consulting documentation and videos.
+- Looking for a new opportunity as a Junior Software Developer in Belgium in the surroundings of Brussels,
+- Deepening my knowledge of software development by building small projects and consulting documentation and videos.
 
 ## Projects
 
