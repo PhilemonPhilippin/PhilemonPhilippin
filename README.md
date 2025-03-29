@@ -31,15 +31,6 @@ At the moment, I'm keeping myself busy by
 
 ## Projects
 
-### 🥗 Ideas for Meals
-
-I created a small web application to generate random meal ideas, for my CS50: Introduction to Computer Science course from Harvard.  
-It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
-
-| Back end                                                                 | Front end                                                                          |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [IdeasForMeals](https://github.com/PhilemonPhilippin/IdeasForMeals-repo) | [ideas-for-meals-ng](https://github.com/PhilemonPhilippin/ideas-for-meals-ng-repo) |
-
 ### 🍽️ Kitchen
 
 I created a program to manage recipes : Kitchen.  
