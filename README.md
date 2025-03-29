@@ -27,9 +27,15 @@ The **languages and tools** I use the most are :
 At the moment, I'm keeping myself busy by
 
 - Looking for a new opportunity as a Junior Software Developer in Belgium in the surroundings of Brussels,
-- Deepening my knowledge of software development by building small projects and consulting documentation and videos.
+- Deepening my knowledge of software development by building projects and taking courses. Currently working on the [Sketchofil](https://github.com/PhilemonPhilippin/Sketchofil-repo) project.
 
 ## Projects
+
+### ✏️ Sketchofil
+
+I'm currently working on a new web application project, the aim of which is to bring people together around a theme: draw a sketch every day, share it and discuss it in a positive and encouraging atmosphere during our journey of learning to draw.
+
+It is a work in progress. More info here : [Sketchofil](https://github.com/PhilemonPhilippin/Sketchofil-repo)
 
 ### 🍽️ Kitchen
 
