@@ -2,11 +2,11 @@
 
 Hello there 😄 My name is **Philémon**.
 
-I discovered **programming** in 2017 and immediatly fell in love with it. I started to learn it more seriously from end of 2021.
+In 2021, I have decided to redirect my career towards software development to follow my passion.
 
-My **work experience** includes 6 months of work in a consulting firm as a .NET back-end developer.  
-It also includes 5 months of professional training in .NET development, focusing on the web development fundamentals and going far enough into .NET back-end development.  
-Finally, my work experience also includes 7 months of professional training in web development, focusing on the JavaScript ecosystem and front-end development.
+I have completed a 5-month **professional training** in .NET development, where I have acquired skills in back-end development.  
+After this training, I had the opportunity to work for 6 months **on a real project** as a .NET Developer in a consulting firm.  
+After this first experience, I was able to complete a **second professional training**, this time more focused on front-end development.
 
 My career goals are rooted in a passion for continuous learning.
 
@@ -26,7 +26,7 @@ The **languages and tools** I use the most are :
 
 At the moment, I'm keeping myself busy by
 
-- Looking for a new opportunity as a Junior Software Developer in Belgium in the surroundings of Brussels,
+- Looking for a new opportunity as a Software Developer in Belgium in the surroundings of Brussels,
 - Deepening my knowledge of software development by building projects and taking courses. Currently working on the [Sketchofil](https://github.com/PhilemonPhilippin/Sketchofil-repo) project.
 
 ## Projects
