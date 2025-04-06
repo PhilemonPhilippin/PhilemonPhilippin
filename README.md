@@ -27,7 +27,7 @@ The **languages and tools** I use the most are :
 At the moment, I'm keeping myself busy by
 
 - Looking for a new opportunity as a Software Developer in Belgium in the surroundings of Brussels,
-- Deepening my knowledge of software development by building projects and taking courses. Among other things, I am busy with the [Sketchofil](https://github.com/PhilemonPhilippin/Sketchofil-repo) project.
+- Deepening my knowledge of software development by building projects and taking courses.
 
 ## Projects
 
