@@ -58,6 +58,4 @@ I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 #### Contact me!
 
-| LinkedIn                                                                                                                            | Email                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/ "LinkedIn vers philemonphilippin") | philemonphilippin.opentowork@outlook.com |
+[![LinkedIn - Philémon Philippin](/linkedin.png)](https://www.linkedin.com/in/philemonphilippin/ "LinkedIn vers philemonphilippin")
