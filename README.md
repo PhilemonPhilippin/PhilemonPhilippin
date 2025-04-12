@@ -1,4 +1,4 @@
-# 👤 About
+## 👤 About
 
 Hello there 😄 My name is **Philémon**.
 
@@ -24,31 +24,24 @@ The **languages and tools** I use the most are :
 
 ---
 
-At the moment, I'm keeping myself busy by
+At the moment, I am keeping myself busy by
 
 - Looking for a new opportunity as a Software Developer in Belgium in the surroundings of Brussels,
 - Deepening my knowledge of software development by building projects and taking courses.
 
-## Projects
+## 🏗️ Projects
 
-### 🍽️ Kitchen
+To consolidate my skills in fullstack development, I created two CRUD applications.  
+The first, Bugtracker, was built in about 1 month, in 2022, because it was my end-of-professional-training project. The second, Kitchen, was built in about 2 months in 2023.  
+Details below.
 
-I created a program to manage recipes : Kitchen.  
-It is composed of two parts : the server in **ASP.NET API** and the user interface in **Angular**.
+| Project name  | Back end                                                                   | Front end                                                                    |
+| ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 🍽️ Kitchen    | [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo)               | [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo)             |
+| 🐞 Bugtracker | [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo) | [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo) |
 
-| Back end                                                     | Front end                                                        |
-| ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo) | [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo) |
-
-### 🐞 Bug tracker
-
-If you want to see my first relatively large project, you can look at my Bugtracker.
-I built it in about a month during my .NET job training.  
-This project is made of two parts : the server in **ASP.NET API** and the user interface in **Blazor**.
-
-| Back end                                                                   | Front end                                                                    |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo) | [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo) |
+I am taking a short break from creating simple CRUD applications because I think I have shown that I have got the skills of a junior developer.  
+And this will allow me to work on projects that are a bit closer to my heart.
 
 ## 📄 CV
 
