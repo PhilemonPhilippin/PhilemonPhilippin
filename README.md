@@ -32,8 +32,8 @@ At the moment, I am keeping myself busy by
 ## 🏗️ Projects
 
 To consolidate my skills in fullstack development, I created two CRUD applications.  
-The first, Bugtracker, was built in about 1 month, in 2022, because it was my end-of-professional-training project. The second, Kitchen, was built in about 2 months in 2023.  
-Details below.
+The first, Bugtracker, was built in about 1 month, in 2022, because it was my end-of-professional-training project.  
+The second, Kitchen, was built in about 2 months in 2023.
 
 | Project name  | Back end                                                                   | Front end                                                                    |
 | ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
