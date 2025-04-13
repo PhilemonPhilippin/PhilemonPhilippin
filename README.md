@@ -8,8 +8,7 @@ I have completed a 5-month **professional training** in .NET development, where 
 After this training, I had the opportunity to work for 6 months **on a real project** as a .NET Developer in a consulting firm.  
 After this first experience, I was able to complete a **second professional training**, this time more focused on front-end development.
 
-My career goals are rooted in a passion for continuous learning.
-
+My career goals are rooted in a passion for continuous learning.  
 The **languages and tools** I use the most are :
 
 ![.NET](./dotnet.png ".NET") &nbsp; &nbsp;
@@ -40,8 +39,7 @@ The second, Kitchen, was built in about 2 months in 2023.
 | 🍽️ Kitchen    | [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo)               | [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo)             |
 | 🐞 Bugtracker | [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo) | [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo) |
 
-I am taking a short break from creating simple CRUD applications because I think I have shown that I have got the skills of a junior developer.  
-And this will allow me to work on projects that are a bit closer to my heart.
+I am taking a short break from creating simple CRUD applications because I think I have shown that I have got the skills of a junior developer. And this will allow me to work on projects that are a bit closer to my heart.
 
 ## 📄 CV
 
