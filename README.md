@@ -39,7 +39,7 @@ The second, Kitchen, was built in about 2 months in 2023.
 | 🍽️ Kitchen    | [Kitchen](https://github.com/PhilemonPhilippin/Kitchen-repo)               | [KitchenNG](https://github.com/PhilemonPhilippin/KitchenNG-repo)             |
 | 🐞 Bugtracker | [Bugtracker.API](https://github.com/PhilemonPhilippin/Bugtracker.API-repo) | [Bugtracker.WASM](https://github.com/PhilemonPhilippin/Bugtracker.WASM-repo) |
 
-I am taking a short break from creating simple CRUD applications because I think I have shown that I have got the skills of a junior developer. And this will allow me to work on projects that are a bit closer to my heart.
+I am taking a short break from creating simple CRUD applications because I want to work on projects that are a bit closer to my heart.
 
 ## 📄 CV
 
