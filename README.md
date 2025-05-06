@@ -2,13 +2,9 @@
 
 Hello there 😄 My name is **Philémon**.
 
-In 2021, I have decided to redirect my career towards software development to follow my passion.
+In 2021, I have decided to redirect my career towards software development to follow my passion.  
+My career goals are rooted in a passion for continuous learning.
 
-I have completed a 5-month **professional training** in .NET development, where I have acquired skills in back-end development.  
-After this training, I had the opportunity to work for 6 months **on a real project** as a .NET Developer in a consulting firm.  
-After this first experience, I was able to complete a **second professional training**, this time more focused on front-end development.
-
-My career goals are rooted in a passion for continuous learning.  
 The **languages and tools** I use the most are :
 
 ![.NET](./dotnet.png ".NET") &nbsp; &nbsp;
